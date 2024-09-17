@@ -1,0 +1,27 @@
+.carousel {
+  display: inline-flex;
+  border-radius: 3%;
+  overflow-x: hidden;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+/* Add this CSS to your App.css file */
+.description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 10px;
+  opacity: 0; /* Initially hide the description */
+  transition: opacity 0.3s ease; /* Add a transition effect */
+}
+
+/* Show the description on hover */
+.carousel:hover .description {
+  opacity: 1;
+}
+

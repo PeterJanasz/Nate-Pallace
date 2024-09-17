@@ -1,0 +1,37 @@
+{ 
+  "images": [
+    "/photomicroscopy/PHOTOMICROSCOPY--01.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--02.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--03.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--04.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--05.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--06.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--07.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--08.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--09.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--10.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--11.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--12.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--13.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--14.jpg",
+    "/photomicroscopy/PHOTOMICROSCOPY--15.jpg"
+  ],
+  "descriptions" : [
+    "4x mapped spinal cord cross section using darkfield techniques",
+    "10x mapped scabies in situ cross section using darkfield techniques",
+    "10x blue green algae using darkfield techniques",
+    "10x mapped till cross section using darkfield techniques",
+    "10x stacked mosquito, piercing type, using darkfield techniques",
+    "10x mapped pine needle cross section using brightfield techniques",
+    "10x mapped worm intestine cross section using brightfield techniques",
+    "40x osteogenesis cells using brightfield techniques",
+    "10x mapped fish gill cross section using brightfield techniques",
+    "20x rabbit intestine using fluorescence",
+    "10x mouse kidney using fluorescence",
+    "4x brine shrimp using fluorescence",
+    "10x recrystallized urea using polarization",
+    "4x recrystallized urea using polarization",
+    "20x recrystallized urea using polarization"
+  ]
+}
+
